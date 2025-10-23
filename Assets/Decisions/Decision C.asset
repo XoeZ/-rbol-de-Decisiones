@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5f5734044f2cdd43936a8c57c595d21, type: 3}
   m_Name: Decision C
   m_EditorClassIdentifier: 
-  description: 'Decision C: ...'
-  option1Text: Option F
+  description: "Escapas por el bosque, pero te encuentras con un Bandido, te captura
+    y amarra, El bandido te dice que dentro de poco vendr\xE1 un c\xF3mplice de \xE9l,
+    que deber\xEDa hacer?"
+  option1Text: "Intentar sobornar al soldado que te captur\xF3 minti\xE9ndole."
   option1Next: {fileID: 11400000, guid: 81ed2ab92b6b02940bfd8fa2a79dde1d, type: 2}
-  option2Text: Option G
+  option2Text: "Intentar crear una distracci\xF3n para escapar."
   option2Next: {fileID: 11400000, guid: ddd4b57889d1c4e4fb144688230bdc1f, type: 2}

@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5f5734044f2cdd43936a8c57c595d21, type: 3}
   m_Name: Ending 6
   m_EditorClassIdentifier: 
-  description: Ending 6
+  description: "Su amigo llega y van por el supuesto botin, y descubren que lo que
+    dices era falso, ya sin m\xE1s opciones, te levantas y corres con las manos atadas
+    con todas tus fuerzas, pero caes al suelo, te atrapan, y golpean hasta la muerte."
   option1Text: 
   option1Next: {fileID: 0}
   option2Text: 

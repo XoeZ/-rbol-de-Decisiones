@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5f5734044f2cdd43936a8c57c595d21, type: 3}
   m_Name: Ending 4
   m_EditorClassIdentifier: 
-  description: Ending 4
+  description: "Al llegar al origen del grito te das cuenta que no es tu hijo y es
+    otro ni\xF1o del pueblo, pero entre las cenizas observas desde lejos como despiadadamente
+    ejecutan a tu hijo junto a tu esposa, pero salvando al ni\xF1o desconocido que
+    suplicaba ayuda.\r"
   option1Text: 
   option1Next: {fileID: 0}
   option2Text: 

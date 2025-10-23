@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5f5734044f2cdd43936a8c57c595d21, type: 3}
   m_Name: Ending 5
   m_EditorClassIdentifier: 
-  description: Ending 5
+  description: "Le dices que mejor no espere a su colega y le ayudamos cavando as\xED
+    \xE9l se queda con todo el bot\xEDn. Por el cual te desata para que lo desentierres,
+    pero lo golpeas con la pala sorpresivamente mientras estaba distra\xEDdo, finalmente
+    escapas dejando a tu familia atras."
   option1Text: 
   option1Next: {fileID: 0}
   option2Text: 

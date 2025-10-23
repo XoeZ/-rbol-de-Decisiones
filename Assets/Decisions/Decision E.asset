@@ -12,8 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5f5734044f2cdd43936a8c57c595d21, type: 3}
   m_Name: Decision E
   m_EditorClassIdentifier: 
-  description: 'Decision E: ...'
-  option1Text: End 3
+  description: "Te divides con tu esposa para buscar al ni\xF1o, poco despues, se
+    escuchan a lo lejos dos gritos de lugares diferentes, en un lado se escucha el
+    grito de un infante pero no se diferencia de tu hijo y por el otro lado se escucha
+    el grito de tu esposa, a donde voy?\r\n"
+  option1Text: Ir hacia el grito de tu esposa pero abandonar a tu posible hijo.
   option1Next: {fileID: 11400000, guid: 06c36a219ce21bc4ea5e8c67035062b5, type: 2}
-  option2Text: End 4
+  option2Text: Ir a la ayuda del grito infantil arriesgando a tu esposa.
   option2Next: {fileID: 11400000, guid: 36fc0655fccf49b4ab7eb2222d074abb, type: 2}

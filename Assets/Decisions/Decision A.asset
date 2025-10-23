@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5f5734044f2cdd43936a8c57c595d21, type: 3}
   m_Name: Decision A
   m_EditorClassIdentifier: 
-  description: 'Decision A: ...'
-  option1Text: Option B
+  description: "Somos un campesino, y nuestra aldea est\xE1 siendo atacada por bandidos,
+    \xBFqu\xE9 debo hacer?\r\n"
+  option1Text: Avisarle a tu familia
   option1Next: {fileID: 11400000, guid: 7dc8d4ccecbd1784fa3752e60d4c3ce9, type: 2}
-  option2Text: Option C
+  option2Text: Escapar
   option2Next: {fileID: 11400000, guid: 0c98b1282ea634547a40fa5fd274a217, type: 2}

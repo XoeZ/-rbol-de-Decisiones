@@ -12,8 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5f5734044f2cdd43936a8c57c595d21, type: 3}
   m_Name: Decision D
   m_EditorClassIdentifier: 
-  description: 'Decision D: ...'
-  option1Text: End 1
+  description: "Mientras buscaban a su hijo en la zona de guerra, a la lejan\xEDa
+    se le oye gritar suplicando ayuda, pero viene justo desde el centro de la aldea
+    que es donde est\xE1n la mayor\xEDa de los bandidos, que deber\xEDa hacer?\r\n"
+  option1Text: ' Desesperadamente te abalanzas contra los bandidos y rescatar a tu
+    hijo. '
   option1Next: {fileID: 11400000, guid: 6e0e22881a71cd7499f9a1669343288c, type: 2}
-  option2Text: End 2
+  option2Text: " Crear una distracci\xF3n para evadir a los bandidos y salvar a tu
+    hijo. "
   option2Next: {fileID: 11400000, guid: 2007f6b21d9ad5f458edc3934813c686, type: 2}

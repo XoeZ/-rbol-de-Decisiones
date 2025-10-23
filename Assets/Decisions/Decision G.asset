@@ -12,8 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5f5734044f2cdd43936a8c57c595d21, type: 3}
   m_Name: Decision G
   m_EditorClassIdentifier: 
-  description: 'Decision G: ...'
-  option1Text: End 7
+  description: "Logras tomar una piedra con las manos, por el cual la lanzas cuando
+    el bandido est\xE9 distra\xEDdo, al ser solo uno el decide tomar la confianza
+    de dejarte para buscar el origen del sonido, que deber\xEDa hacer?."
+  option1Text: 'Levantarte y correr con todas tus fuerzas (con las manos atadas). '
   option1Next: {fileID: 11400000, guid: ee64bddf6afee9d44a6d07243b96317e, type: 2}
-  option2Text: End 8
+  option2Text: ' Intentar zafarse del agarre para atacar al bandido sorpresivamente
+    cuando vuelva.'
   option2Next: {fileID: 11400000, guid: 78169aca13e00ad41835423ac69bbd9a, type: 2}

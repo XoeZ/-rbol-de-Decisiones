@@ -12,8 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5f5734044f2cdd43936a8c57c595d21, type: 3}
   m_Name: Decision B
   m_EditorClassIdentifier: 
-  description: 'Decision B: ...'
-  option1Text: Option D
+  description: Al llegar con apuro a tu casa te percatas que tu hijo no estaba, pero
+    has encontrado a tu esposa dentro, que debo hacer ahora?
+  option1Text: 'Tomar tu rastrillo y salir con tu esposa a buscar a tu hijo en la
+    zona de guerra. '
   option1Next: {fileID: 11400000, guid: 2c8f762a3143cd642b0db8656d13e26d, type: 2}
-  option2Text: Option E
+  option2Text: "Dividirse por la b\xFAsqueda de tu hijo entre tu y tu esposa, le
+    das tu rastrillo. "
   option2Next: {fileID: 11400000, guid: 33cab20122753064e952c836d6ee5aaf, type: 2}

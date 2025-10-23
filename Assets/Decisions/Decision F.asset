@@ -12,8 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5f5734044f2cdd43936a8c57c595d21, type: 3}
   m_Name: Decision F
   m_EditorClassIdentifier: 
-  description: 'Decision F: ...'
-  option1Text: End 5
+  description: "Le mientes sobre que tienes un tesoro oculto por el bosque pero se
+    tiene que caminar para poder llegar a \xE9l, adem\xE1s de que se tendr\xE1 que
+    cavar para obtenerlo, el cual acepta ya que no falta mucho para que llegue su
+    compa\xF1ero, que hago?. "
+  option1Text: "Enga\xF1arlo para que no espere a su amigo ya que tendr\xE1n que
+    repartirse el bot\xEDn."
   option1Next: {fileID: 11400000, guid: aeb1bf74682b168499c687985860ab14, type: 2}
-  option2Text: End 6
+  option2Text: "Esperar a que llegue su compa\xF1ero."
   option2Next: {fileID: 11400000, guid: a1344048e0cb49f4f923f74ba00b04d9, type: 2}

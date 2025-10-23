@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5f5734044f2cdd43936a8c57c595d21, type: 3}
   m_Name: Ending 3
   m_EditorClassIdentifier: 
-  description: Ending 3
+  description: "Al llegar con tu esposa te percatas que ella estaba defendiendo a
+    tu hijo de un bandido, por el cual lo golpeas por detr\xE1s, logrando salvarlos
+    e irse del pueblo."
   option1Text: 
   option1Next: {fileID: 0}
   option2Text: 

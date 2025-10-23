@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5f5734044f2cdd43936a8c57c595d21, type: 3}
   m_Name: Ending 2
   m_EditorClassIdentifier: 
-  description: Ending 2
+  description: "Tu y tu esposa crean una distracci\xF3n abriendo un corral de toros,
+    creando una estampida que hace retroceder a los enemigos, por el cual aprovechan
+    esa apertura para liberar y escapar con tu esposa e hijo para rehacer su vida."
   option1Text: 
   option1Next: {fileID: 0}
   option2Text: 

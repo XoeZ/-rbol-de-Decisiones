@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5f5734044f2cdd43936a8c57c595d21, type: 3}
   m_Name: Ending 8
   m_EditorClassIdentifier: 
-  description: Ending 8
+  description: 'El Bandido regresa, esperas a que se acerque lo suficiente mientras
+    finges estar atado, lo golpeas y dejas inconsciente, tomas su arma y escapas
+    del lugar aceptando el fin de tu familia y anterior vida.
+
+'
   option1Text: 
   option1Next: {fileID: 0}
   option2Text: 

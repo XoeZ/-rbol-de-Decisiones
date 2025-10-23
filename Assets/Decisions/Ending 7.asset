@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5f5734044f2cdd43936a8c57c595d21, type: 3}
   m_Name: Ending 7
   m_EditorClassIdentifier: 
-  description: Ending 7
+  description: "Observamos al bandido que est\xE1 lo suficientemente lejos y distra\xEDdo
+    con su b\xFAsqueda, en ese momento te levantas y corres desesperadamente sin
+    mirar atr\xE1s, te tropiezas pero te levantas al instante volviendo a correr
+    mientras miras por si el bandido te sigue pero chocas repentinamente con el amigo
+    del bandido el cual con total frialdad te decapita."
   option1Text: 
   option1Next: {fileID: 0}
   option2Text: 
